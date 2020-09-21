@@ -1,0 +1,16 @@
+[32mINFO    [0m LoginPage:selenium_driver.py:70 Element not found with locator: Login and  locatorType: link
+[32mINFO    [0m LoginPage:selenium_driver.py:81 Cannot click on the element with locator: Login locatorType: link
+[32mINFO    [0m LoginPage:selenium_driver.py:70 Element not found with locator: user_email and  locatorType: id
+[32mINFO    [0m LoginPage:selenium_driver.py:92 Cannot send data on the element with locator: user_email locatorType: id
+[32mINFO    [0m LoginPage:selenium_driver.py:70 Element not found with locator: user_password and  locatorType: id
+[32mINFO    [0m LoginPage:selenium_driver.py:92 Cannot send data on the element with locator: user_password locatorType: id
+[32mINFO    [0m LoginPage:selenium_driver.py:70 Element not found with locator: commit and  locatorType: name
+[32mINFO    [0m LoginPage:selenium_driver.py:81 Cannot click on the element with locator: commit locatorType: name
+[31m[1mERROR   [0m LoginPage:basepage.py:41 Failed to get page title
+[31m[1mERROR   [0m TestStatus:teststatus.py:34 ### VERIFICATION FAILED :: + Title Verification
+[32mINFO    [0m TestStatus:selenium_driver.py:33 Screenshot save to directory: C:\Users\Kiran\PycharmProjects\letskodeit\base\../screenshots/Title Verification.1599032432787.png
+[32mINFO    [0m LoginPage:selenium_driver.py:70 Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:104 Element not present with locator: //*[@id='navbar']//span[text()='User Settings'] locatorType: xpath
+[31m[1mERROR   [0m TestStatus:teststatus.py:34 ### VERIFICATION FAILED :: + Login Verification
+[32mINFO    [0m TestStatus:selenium_driver.py:33 Screenshot save to directory: C:\Users\Kiran\PycharmProjects\letskodeit\base\../screenshots/Login Verification.1599032436128.png
+[31m[1mERROR   [0m TestStatus:teststatus.py:61 test_validLogin ### TEST FAILED

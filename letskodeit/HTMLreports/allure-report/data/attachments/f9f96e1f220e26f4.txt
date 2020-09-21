@@ -1,0 +1,10 @@
+[32mINFO    [0m LoginPage:selenium_driver.py:67 Element found with locator: Login and  locatorType: link
+[32mINFO    [0m LoginPage:selenium_driver.py:78 Clicked on element with locator: Login locatorType: link
+[32mINFO    [0m LoginPage:selenium_driver.py:70 Element not found with locator: user_email and  locatorType: id
+[32mINFO    [0m LoginPage:selenium_driver.py:92 Cannot send data on the element with locator: user_email locatorType: id
+[32mINFO    [0m LoginPage:selenium_driver.py:70 Element not found with locator: user_password and  locatorType: id
+[32mINFO    [0m LoginPage:selenium_driver.py:92 Cannot send data on the element with locator: user_password locatorType: id
+[32mINFO    [0m LoginPage:selenium_driver.py:67 Element found with locator: commit and  locatorType: name
+[32mINFO    [0m LoginPage:selenium_driver.py:78 Clicked on element with locator: commit locatorType: name
+[32mINFO    [0m LoginPage:selenium_driver.py:67 Element found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:100 Element present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath

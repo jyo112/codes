@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Sep 04 13:32:34 IST 2020","Fri Sep 04 13:34:32 IST 2020","117718","scripts","test_login","LoginTests","","","test_validLogin",""
-"passed","Thu Sep 03 19:33:12 IST 2020","Thu Sep 03 19:33:43 IST 2020","30432","scripts","test_login","LoginTests","","","test_create_project",""
