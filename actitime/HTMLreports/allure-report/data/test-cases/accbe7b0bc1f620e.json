@@ -1,0 +1,218 @@
+{
+  "uid" : "accbe7b0bc1f620e",
+  "name" : "test_create_project",
+  "fullName" : "scripts.test_login.LoginTests#test_create_project",
+  "historyId" : "ba70fce34dc5958369ff5b4849a30e96",
+  "time" : {
+    "start" : 1599141792939,
+    "stop" : 1599141823371,
+    "duration" : 30432
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "browser",
+    "time" : {
+      "start" : 1599141786681,
+      "stop" : 1599141786681,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "classSetup",
+    "time" : {
+      "start" : 1599141792936,
+      "stop" : 1599141792936,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "oneTimeSetUp",
+    "time" : {
+      "start" : 1599141786681,
+      "stop" : 1599141792936,
+      "duration" : 6255
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1599141786681,
+      "stop" : 1599141786681,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1599141792936,
+      "stop" : 1599141792937,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6ed9ab707086b9d8",
+      "name" : "log",
+      "source" : "6ed9ab707086b9d8.txt",
+      "type" : "text/plain",
+      "size" : 2713
+    }, {
+      "uid" : "f18af4ce8c155d2a",
+      "name" : "stdout",
+      "source" : "f18af4ce8c155d2a.txt",
+      "type" : "text/plain",
+      "size" : 88
+    }, {
+      "uid" : "d6e91cc83f72eb61",
+      "name" : "stderr",
+      "source" : "d6e91cc83f72eb61.txt",
+      "type" : "text/plain",
+      "size" : 56350
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "oneTimeSetUp::0",
+    "time" : {
+      "start" : 1599141850164,
+      "stop" : 1599141852827,
+      "duration" : 2663
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1599141852829,
+      "stop" : 1599141852829,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "setUp::0",
+    "time" : {
+      "start" : 1599141823372,
+      "stop" : 1599141823372,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('oneTimeSetUp', 'setUp')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "LoginTests"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-1LDCU8B"
+  }, {
+    "name" : "thread",
+    "value" : "18412-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c99a97abce926436",
+      "status" : "passed",
+      "time" : {
+        "start" : 1599139467656,
+        "stop" : 1599139498141,
+        "duration" : 30485
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)", "@pytest.mark.usefixtures('oneTimeSetUp', 'setUp')" ]
+  },
+  "source" : "accbe7b0bc1f620e.json",
+  "parameterValues" : [ ]
+}

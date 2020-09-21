@@ -1,0 +1,14 @@
+[32mINFO    [0m LoginPage:selenium_driver.py:67 Element found with locator: //input[@name='username'] and  locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:78 Clicked on element with locator: //input[@name='username'] locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:135 Waiting for maximum :: 10 :: seconds for element to be clickable
+[32mINFO    [0m LoginPage:selenium_driver.py:144 Element not appeared on the web page
+[32mINFO    [0m LoginPage:selenium_driver.py:67 Element found with locator: //input[@name='username'] and  locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:93 Sent data on element with locator: //input[@name='username'] locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:67 Element found with locator: //input[@name='pwd'] and  locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:78 Clicked on element with locator: //input[@name='pwd'] locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:135 Waiting for maximum :: 10 :: seconds for element to be clickable
+[32mINFO    [0m LoginPage:selenium_driver.py:144 Element not appeared on the web page
+[32mINFO    [0m LoginPage:selenium_driver.py:67 Element found with locator: //input[@name='pwd'] and  locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:93 Sent data on element with locator: //input[@name='pwd'] locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:67 Element found with locator: //div[text()='Login '] and  locatorType: xpath
+[32mINFO    [0m LoginPage:selenium_driver.py:78 Clicked on element with locator: //div[text()='Login '] locatorType: xpath

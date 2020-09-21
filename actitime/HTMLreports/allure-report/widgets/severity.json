@@ -1,0 +1,21 @@
+[ {
+  "uid" : "accbe7b0bc1f620e",
+  "name" : "test_create_project",
+  "time" : {
+    "start" : 1599141792939,
+    "stop" : 1599141823371,
+    "duration" : 30432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d74c163f21200c0",
+  "name" : "test_validLogin",
+  "time" : {
+    "start" : 1599206554794,
+    "stop" : 1599206672512,
+    "duration" : 117718
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
